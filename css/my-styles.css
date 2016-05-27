@@ -1,14 +1,30 @@
+body {
+  color: rgba(135, 126, 126, 1);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: rgba(135, 144, 169, 1);
+}
+
 a {
   color:#C79D9D;
 }
-
+ul {
+  list-style-type: none;
+}
+.bdr-grey {
+  border-left: 7px dotted #eee;
+}
 .jumbotron  {
   text-align: center;
   text-transform: uppercase;
   color: rgba(125, 116, 116, 1);
 }
- .jumbotron strong {
+ .jumbotron strong, .jumbotron em {
   color: rgba(135, 126, 126, 1);
+ }
+ .jumbotron em{
+   font-weight: 500;
  }
 .jumbotron h3,.jumbotron h1 {
   color:#6D728C;
@@ -16,7 +32,16 @@ a {
 .about-me {
   background-color: #ccc;
 }
-
+.work {
+  text-align: center;
+}
+.work ul {
+  line-height: 2;
+  padding-left: 0;
+}
+.work {
+  min-he
+}
 /* Small devices (tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
   .jumbotron img {
