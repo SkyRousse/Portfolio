@@ -53,13 +53,16 @@ div.divider {
   line-height: 2;
   padding-left: 0;
 }
-.about {
-
+.about span {
+  margin-bottom: 60px;
 }
 .about-icon img{
   border: 3px solid #eee;
-  background-color: rgba(189, 157, 157, 0.32);;
+  background-color: rgba(189, 157, 157, 0.32);
   border-radius: 1000px;
+}
+.about h4 {
+  color: rgba(135, 126, 126, 1);
 }
 
 /* Small devices (tablets, 768px and up) */
