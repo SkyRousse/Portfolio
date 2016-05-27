@@ -23,12 +23,13 @@ _If you'd like to get in touch you can contact me at: skyrousse.epicodus@gmail.c
 
 ### Technologies Used
 
-* HTML
-* CSS
-* Bootstrap
+* _HTML_
+* _CSS_
+* _Bootstrap_
 
 #### License
 
 *All work is Licensed under the MIT license*
 
 Copyright (c) 2015 **_Sky Rousse_**
+
