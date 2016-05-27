@@ -1,3 +1,26 @@
+a {
+  color:#C79D9D;
+}
+
+.jumbotron  {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(125, 116, 116, 1);
+}
+ .jumbotron strong {
+  color: rgba(135, 126, 126, 1);
+ }
+.jumbotron h3,.jumbotron h1 {
+  color:#6D728C;
+}
 .about-me {
   background-color: #ccc;
 }
+
+/* Small devices (tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .jumbotron img {
+    display: block;
+    margin: 0 auto;
+  }
+ }

@@ -10,7 +10,7 @@
     <!-- links -->
     <link  rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
-    <link rel="stylesheet" type="text/css" href="my-styles.css">
+    <link rel="stylesheet" type="text/css" href="css/my-styles.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,27 +20,38 @@
    <![endif]-->
   </head>
   <body>
-
     <!-- Navbar -->
-        <div class="navbar navbar-inverse navbar-fixed">
-          <div class="container">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-
-            <a href="#" class="navbar-brand text-muted">Sky Rousse</a>
-            <div class="collapse navbar-collapse">
-    <!-- floats right and lines up horizontally -->
-              <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="index.html">Home</a></li>
-              </ul>
+    <div class="navbar navbar-fixed">
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="#" class="navbar-brand text-muted">Sky Rousse</a>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="index.html">Home</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- jumbotron -->
+      <div class="jumbotron">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4">
+              <img class="img-responsive" src="img/headshot_squared.jpg" alt="headshot of Sky Rousse">
+            </div>
+            <div class="col-sm-8">
+              <h3>Hi there, my name is </h3>
+              <h1>Sky Rousse</h1>
+              <p> This is my Epicodus <strong>portfolio</strong> page. See examples of my work below</p>
             </div>
           </div>
         </div>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
    <!-- Include all compiled plugins (below), or include individual files as needed -->
    <script src="js/bootstrap.js"></script>
