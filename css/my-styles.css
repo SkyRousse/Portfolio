@@ -14,6 +14,9 @@ a:visited {
 ul {
   list-style-type: none;
 }
+.icon-bar {
+    background-color: rgba(135, 126, 126, 1);
+}
 div.divider {
   border-bottom: 3px dotted #eee;
 }
