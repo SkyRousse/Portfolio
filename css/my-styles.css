@@ -6,10 +6,7 @@ h1,h2,h3,h4,h5,h6 {
   text-align: center;
 }
 a, a:visited {
-  color:#C79D9D;
-}
-a:visited {
-  color:#C79D9D;
+  color: #C79D9D;
 }
 ul {
   list-style-type: none;
@@ -25,17 +22,17 @@ div.divider {
 }
 .bk-blue {
   background-color: rgba(59, 62, 70, .9);
-  color:#ccc;
+  color: #ccc;
 }
 .brdr-lght-grey {
   border: 3px dotted #eee;
-  padding:30px 0;
+  padding: 30px 0;
 }
 .header-block {
-  padding:33px 0;
+  padding: 33px 0;
   margin-bottom: 20px;
 }
-.jumbotron  {
+.jumbotron {
   text-align: center;
   text-transform: uppercase;
   color: rgba(125, 116, 116, 1);
@@ -44,11 +41,11 @@ div.divider {
  .jumbotron strong, .jumbotron em {
   color: rgba(135, 126, 126, 1);
  }
- .jumbotron em{
+ .jumbotron em {
    font-weight: 500;
  }
-.jumbotron h3,.jumbotron h1 {
-  color:#6D728C;
+.jumbotron h3, .jumbotron h1 {
+  color: #6D728C;
 }
 .work {
   text-align: center;
