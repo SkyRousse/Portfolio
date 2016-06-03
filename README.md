@@ -11,7 +11,7 @@ The purpose of this site is to present programming work examples as well as prov
 ## Setup/Installation Requirements
 
 * _No setup or installation needed_
-* _You can visit the site at: (insert github pages url)_
+* _You can visit the site at: http://skyrousse.github.io/Portfolio/_
 
 ### Known Bugs
 
@@ -31,5 +31,4 @@ _If you'd like to get in touch you can contact me at: skyrousse.epicodus@gmail.c
 
 *All work is Licensed under the MIT license*
 
-Copyright (c) 2015 **_Sky Rousse_**
-
+Copyright (c) 2016 **_Sky Rousse_**
