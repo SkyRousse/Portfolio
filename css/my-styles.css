@@ -5,8 +5,11 @@ h1,h2,h3,h4,h5,h6 {
   color: rgba(135, 144, 169, 1);
   text-align: center;
 }
-a, a:visited {
+a, a:visited, a:hover {
   color: #C79D9D;
+}
+a:hover, a:focus {
+    text-decoration: none;
 }
 ul {
   list-style-type: none;
