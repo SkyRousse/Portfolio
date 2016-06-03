@@ -61,11 +61,9 @@ div.divider {
   padding-left: 0;
 }
 .about div {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
-.about div:first-of-type {
-  margin-bottom: 20px;
-}
+
 .about-icon img{
   border: 3px solid #eee;
   background-color: rgba(189, 157, 157, 0.32);
