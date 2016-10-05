@@ -1,6 +1,6 @@
 # _Epicodus Portfolio_
 
-### _A portfolio site with programming projects completed while Epicodus, 05/27/2016_
+### _A portfolio site with programming projects from intro course at Epicodus, 05/27/2016_
 
 #### Created By _**Sky Rousse**_
 
